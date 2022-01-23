@@ -1,0 +1,14 @@
+[
+    {
+       "servicio":"licencia-original",
+       "precio":"$2.118"
+    },
+    {
+       "servicio":"licencia-renovacion",
+       "precio":"$1.150"
+    },
+    {
+       "servicio":"licencia-ampliacion",
+       "precio":"$1.059"
+    }
+]

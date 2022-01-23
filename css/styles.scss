@@ -1,0 +1,23 @@
+// Importo todas la clases Bootstrap
+@import "bootstrap";
+
+// Limito el tamaño del carrusel
+.carousel-item {
+    max-height: 450px;
+}
+
+// Agrego un recuadro al texto del carrusel para mejorar la visibilidad
+.carousel-caption {
+    padding-bottom: 0;
+    border-radius: 6px;
+    background-color: aliceblue;
+    opacity: 0.65;
+    margin-bottom: 25px;
+    color: #000;
+}
+
+#main-consulta {
+    background-image: url("../imgs/sn-ciudad.jpg");
+    background-position-y: -470px;
+    background-position-x: -1000px;
+}
